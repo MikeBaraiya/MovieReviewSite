@@ -1,0 +1,361 @@
+
+@media (max-width:1600px) {
+    .music-section-main {
+       padding: 110px 15px 0 15px;
+    }
+    .arts-section-main,
+    .literature-section-main {
+      position: relative;
+      padding: 10px 15px;
+    }
+    .footer-section {
+        padding: 0 15px;
+    }
+    .songs-detail h1 {
+        font-size: 26px; 
+    }
+    .authur-sec span {
+        font-size: 20px;
+    }
+    .authur-sec {
+        font-size: 22px;
+    }
+    .play-btn a {
+        font-size: 14px;
+    }
+    .sidebar-block-header h4 {
+        font-size: 18px;
+    }
+    .entities-comments-sec h2 {
+        font-size: 22px;
+        line-height: 26px;
+    }
+    .author-user h5 {
+        font-size: 16px;
+    }
+    .similar-songs-box h5 {
+        font-size: 14px;
+    }
+}
+
+@media (max-width:1500px) {
+    .section-header h1 {
+        font-size: 26px;
+    }
+    .menu-icon i,
+    .menu-name {
+        font-size: 18px;
+    }
+    .entity-title .entity-composition {
+        font-size: 16px;
+    }
+    .music-main-img img {
+        height: 280px;
+    }
+    .app-sidebar {
+        width: 260px;
+    }
+    .app-main-content {
+        max-width: calc(100% + -260px);
+        margin-left: 260px;
+    }
+    .musicdetails-section {
+        padding: 120px 15px 20px;
+    }
+}
+
+@media (max-width:1440px) {
+    .post-btn button {
+        font-size: 14px;
+    }
+    .entities-block-sidebar {
+        margin-left: 0;
+      }
+    .similar-songs-sec h4,
+    .sidebar-block-Author h4 {
+        font-size: 16px;
+    }
+    ul.aboutfront {
+        padding-bottom: 2px;
+    }
+    .htag-list li a,
+    .aboutfront li {
+        font-size: 15px;
+    }
+    .side-logo img {
+        max-width: 130px;
+      }
+    .mf-vendor-name a {
+        font-size: 14px;
+    }
+  .entity-author {
+    font-size: 15px;
+   }
+   .entity-title .entity-composition {
+    font-size: 14px;
+    line-height: 16px;
+   }
+   .entity-title {
+    padding: 8px;
+   }
+   .calendar, 
+   .time {
+    padding-bottom: 10px;
+    font-size: 14px;
+   }
+   .headphones,
+   .heart,
+   .share {
+       font-size: 14px;
+   }
+   .copyright p {
+    font-size: 14px;
+   }
+   .ft-menu-list li a {
+       font-size: 14px;
+   }
+   .hashtag {
+    padding: 12px 22px;
+   }
+   .section-header h1 {
+    font-size: 24px;
+    margin-bottom: 5px;
+   }
+   .music-sec-box {
+    margin-bottom: 20px;
+   }
+   .arts-section-main,
+    .literature-section-main {
+      position: relative;
+      padding: 0px 15px;
+    }
+    .music-profile-img img {
+        height: 300px;
+            object-fit: cover;
+    }
+    .songs-detail h1 {
+        font-size: 24px;
+    }
+    .sidebar-block-header .fa-signal {
+        margin-right: 8px;
+      } 
+      .entities-comments-sec h2 {
+        font-size: 20px;
+        line-height: 24px;
+    }
+    .sidebar-block-header h4 {
+        font-size: 16px;
+    }
+}
+@media (max-width:1366px) {
+    .music-main-img img {
+        height: 240px;
+    }
+}
+
+@media (min-width:992px) {
+    .toggle-menu, .closebtnmob {
+        display: none;
+    }
+	.app-sidebar {
+		display: block !important;
+	}
+}
+
+@media screen and (min-width: 992px) and (max-width: 1199px) { 
+	.ft-menu-list li a {
+		padding-right: 0;
+	}
+	.contact-sec-form {
+		margin-top: 0;
+	}
+	
+	.contactus-section {
+		padding-left: 5px;
+		padding-right: 5px;
+	}
+	
+	.contact-address {
+		padding-left: 30px;
+		padding-right: 30px;
+	}
+	.talk-sec h2 {
+		font-size: 40px;
+		line-height: 50px;
+	}
+}
+@media (max-width:991px) {
+    .products-search__lens {
+        left: 15px;
+    }
+
+    input.products-search__input {
+        padding: 10px 10px 10px 50px;
+    }
+    
+    .contact-sec-form {
+        position: relative;
+        margin-top: 10px;
+      }
+
+    .contactus-section {
+        padding: 100px 5px 20px;
+    }
+
+    .musicdetails-section {
+        padding: 100px 5px 20px;
+    }
+
+    .ft-menu-list {
+        float: none;
+    }
+
+    .song_page_additions {
+        position: relative;
+        padding: 20px 5px;
+      }
+
+    .music-detail-right {
+        position: relative;
+        margin-left: 0;
+    }
+
+    .player .control-panel .album-art {
+        height: 70px;
+        width: 70px;
+    }
+    .player .control-panel .album-art::before {
+        background-size: 70px;
+    }
+    .footer-section {
+        padding: 0;
+    }
+    .closebtnmob {
+        position: absolute;
+        top: 10px;
+        right: 15px;
+        color: rgb(255, 255, 255);
+        font-size: 18px;
+    }
+    .top-header-menu {
+        max-width: 100%;
+    }
+    .app-main-content {
+        max-width: 100%;
+        margin-left: 0;
+    }
+    .app-sidebar {
+        display: none;
+    }
+    .toggle-menu img {
+        max-width: 40px;
+        margin-top: 4px;
+    }
+    .toggle-menu {
+        margin-right: 15px;
+      }
+      .music-section-main {
+        padding: 100px 5px 0 5px;
+     }
+     .arts-section-main,
+    .literature-section-main {
+      position: relative;
+      padding: 0px 5px;
+    }
+	
+	.app-sidebar .closebtnmob:hover,
+	.app-sidebar .closebtnmob:focus {
+		color: #fff;
+	}
+	.contact-address {
+		padding: 30px;
+	}
+	.talk-sec h2 {
+		font-size: 40px;
+		line-height: 50px;
+	}
+}
+@media screen and (min-width: 768px) and (max-width: 991px) { 
+	.ft-menu-list li a {
+		padding-right: 15px;
+	}
+}
+
+@media (max-width:767px) { 
+	.footer-section .row {
+		flex-direction: column-reverse;
+		text-align: center;
+	}
+	.footer-section .copyright {
+		margin-top: 10px;
+	}
+	
+	.col-left,
+    .col-right {
+      width: 100%;
+      margin: 0;
+      -webkit-clip-path: none;
+      clip-path: none;
+    }
+  
+    .col-right {
+		padding: 30px;
+    }
+}
+@media (max-width:600px) {
+  
+    .authur-sec span {
+        font-size: 18px;
+    }
+    .authur-sec {
+        font-size: 20px;
+    }
+    .songs-detail h1 {
+        font-size: 22px;
+        line-height: 26px;
+    }
+    .top-menu {
+        padding: 10px 15px;
+      }
+    .player .control-panel .controls .prev,
+    .player .control-panel .controls .play,
+    .player .control-panel .controls .next { 
+        margin: 18px 8px;
+    }
+    .products-search__box {
+        flex: 1 1 50%;
+    }
+}
+
+
+@media(max-width: 575px) {
+
+    .login-form {
+      margin: 0px 0px;
+    }
+  
+    .login-container {
+      flex-direction: column;
+      box-shadow: none;
+    }
+  
+   
+  }
+
+
+@media (max-width:420px) {
+    .songs-desc p {
+        padding-bottom: 10px;
+    }
+    .authur-sec span {
+        font-size: 16px;
+        margin-right: 5px;
+    }
+    .authur-sec {
+        font-size: 16px;
+    }
+    .songs-detail h1 {
+        font-size: 18px;
+        line-height: 24px;
+    }
+}
